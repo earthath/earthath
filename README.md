@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 👨‍💻 All of my projects are available at [https://earthath.github.io/](https://earthath.github.io/)
 
 - 📫 How to reach me **athip.som@gmail.com**
+-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
